@@ -1,0 +1,3 @@
+<h1>MasterClass Typescript</h1>
+
+<p>Pequeno projeto desenvolvido na <a href="https://youtu.be/0mYq5LrQN1s">MasterClass #07</a> chamada de <strong>Typescript, o ínico de forma prática</strong> no canal da <a href="https://www.youtube.com/@rocketseat">Rocketseat</a> no youtube, na qual foi criado um backend e um frontend de uma aplicação com recursos o mais simples posspiveis com o único intuito de dar uma introdução ao Typescript</p>
